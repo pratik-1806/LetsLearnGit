@@ -1,0 +1,7 @@
+/**
+ * diff
+ */
+public class diff {
+
+    
+}
